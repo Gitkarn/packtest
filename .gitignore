@@ -1,1 +1,78 @@
-.vscode
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.env
+*.venv
+.env.*
+.venv/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+
+
+# Hatch build output
+build/
+dist/
+*.egg-info/
+.eggs/
+
+
+# VSCode settings
+.vscode/
+
+# Environment variables and secrets
+*.env
+.env.*
+secrets.json
+config.json
+*.key
+
+# Log files
+*.log
+*.pid
+*.seed
+*.backup
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Git-specific files
+.git/
+.gitmodules
+
+.pytest_cache/
