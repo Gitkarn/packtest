@@ -1,5 +1,4 @@
 from art import *
 
-output = text2art("Hello World")
-print(output)
-
+def make_art(text):
+    return text2art(text)
