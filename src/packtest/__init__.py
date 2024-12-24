@@ -2,5 +2,7 @@
 #
 # SPDX-License-Identifier: MIT
 from .__about__ import __version__
+from . import adder
+from . import make_art
 
-__all__ = ["__version__"]
+__all__ = ["__version__", "adder", "make_art"]
