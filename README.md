@@ -13,7 +13,7 @@
 ## Installation
 
 ```console
-pip install packtest
+pip install git+https://github.com/Gitkarn/packtest.git
 ```
 
 ## License
